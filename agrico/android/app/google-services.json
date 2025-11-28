@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "126760702891",
+    "project_id": "agrico-4ab4d",
+    "storage_bucket": "agrico-4ab4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126760702891:android:42b2f20bc85c57e2e438ee",
+        "android_client_info": {
+          "package_name": "com.example.agrico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126760702891-aj15rduq89r2h0e3oqee6arjre3utp36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_lSD0mwXbE8Ae11APi5IRpGCB3WE4WUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126760702891-aj15rduq89r2h0e3oqee6arjre3utp36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126760702891-e0os1q3vc386f17ss505fclargc87qfd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agrico"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
